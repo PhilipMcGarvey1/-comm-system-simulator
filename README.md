@@ -2,7 +2,7 @@ End-to-End Communication System Simulator
 
 
 
-This is a Python simulator for analog and digital communication links. You'll find everything bundled together — from generating signals to watching them get noisy and then trying to clean them back up.
+This is a Python simulator for analog and digital communication links. You'll find everything bundled together, from generating signals to watching them get noisy and then trying to clean them back up.
 
 
 
@@ -32,7 +32,7 @@ What's inside:
 
 
 
-The point is to show some real engineering concepts in communications, RF, digital signal processing, and simulation.
+The point is to show real engineering concepts in communications, RF, digital signal processing, and simulation.
 
 
 
